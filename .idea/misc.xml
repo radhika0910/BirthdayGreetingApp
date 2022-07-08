@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/drawable/birthday1.xml" value="0.2385" />
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/layout/activity_display.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/layout/activity_option1.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/layout/activity_option2.xml" value="0.22035573122529645" />
+        <entry key="..\:/Users/bhoya/AndroidStudioProjects/Attempt2BirthdayGreeting/app/src/main/res/layout/activity_option3.xml" value="0.19067977768277042" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
